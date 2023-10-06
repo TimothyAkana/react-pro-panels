@@ -4,13 +4,25 @@
   "description": "React-Pro-Panels",
   "main": "index.js",
   "scripts": {
-    "build": "babel src --out-file index.js",
+    "build": "babel src --out-file index.js"
   },
   "author": "Timothy Akana",
   "license": "ISC",
+"keywords": [
+    "react",
+    "HOC",
+    "higher-order-component",
+    "drag",
+    "drop",
+    "resize",
+    "z-index",
+    "windows",
+    "tabs"
+  ],
   "dependencies": {
     "react-rnd": "^10.4.1"
   },
+  
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.0",
